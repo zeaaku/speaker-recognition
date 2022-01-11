@@ -1,0 +1,5 @@
+pandas
+sklearn
+numpy
+librosa
+python_speech_features
